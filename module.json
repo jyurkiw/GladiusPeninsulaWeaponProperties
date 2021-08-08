@@ -1,0 +1,13 @@
+{
+  "name": "gladiuspeninsulawp,
+  "title": "Gladius Peninsula Weapon Properties",
+  "version": "0.1",
+  "author": "jyurkiw",
+  "systems": ["dnd5e"],
+  "styles": [],
+  "scripts": ["gladiuspeninsulawp.js"],
+  "manifest": "https://raw.githubusercontent.com/jyurkiw/GladiusPeninsulaWeaponProperties/main/module.json",
+  "download": "https://github.com/jyurkiw/GladiusPeninsulaWeaponProperties/archive/main.zip",
+  "minimumCoreVersion": "0.7.0",
+  "compatableCoreVersion": "0.7.9"
+}
